@@ -782,3 +782,10 @@ Contrastive learning methods like SimCLR learn representations by pulling simila
 Transformers use self-attention mechanisms to process sequences in parallel.
 
 🔗 Reference: https://arxiv.org/abs/1706.03762
+
+## 2026-05-26 — [System Design] Database Replication
+**Difficulty:** Intermediate
+
+Replication copies data across multiple database instances for availability.
+
+🔗 Reference: https://www.postgresql.org/docs/current/high-availability.html

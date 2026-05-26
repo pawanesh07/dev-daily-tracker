@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Transformer Architecture** (AI).
+Today I explored **Database Replication** (System Design).
 
-Transformers use self-attention mechanisms to process sequences in parallel.
+Replication copies data across multiple database instances for availability.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering
