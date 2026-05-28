@@ -796,3 +796,10 @@ Replication copies data across multiple database instances for availability.
 Embeddings map discrete tokens to continuous vector representations.
 
 🔗 Reference: https://www.tensorflow.org/text/guide/word_embeddings
+
+## 2026-05-28 — [AI] Vector Databases
+**Difficulty:** Intermediate
+
+Vector databases store and query high-dimensional embeddings efficiently.
+
+🔗 Reference: https://www.pinecone.io/learn/vector-database/

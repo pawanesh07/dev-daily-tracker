@@ -1,7 +1,7 @@
 🚀 Daily Learning Update
 
-Today I explored **Embedding Spaces** (AI).
+Today I explored **Vector Databases** (AI).
 
-Embeddings map discrete tokens to continuous vector representations.
+Vector databases store and query high-dimensional embeddings efficiently.
 
 #LearningInPublic #AI #DSA #SystemDesign #SoftwareEngineering
