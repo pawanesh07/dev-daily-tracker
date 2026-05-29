@@ -803,3 +803,10 @@ Embeddings map discrete tokens to continuous vector representations.
 Vector databases store and query high-dimensional embeddings efficiently.
 
 🔗 Reference: https://www.pinecone.io/learn/vector-database/
+
+## 2026-05-29 — [AI] Retrieval-Augmented Generation (RAG)
+**Difficulty:** Intermediate
+
+RAG improves LLM accuracy by retrieving documents before generation.
+
+🔗 Reference: https://www.pinecone.io/learn/retrieval-augmented-generation/
